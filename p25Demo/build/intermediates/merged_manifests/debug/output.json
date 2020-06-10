@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "net.londatiga.android.bluebamboo",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "p25Demo-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "net.londatiga.android.bluebamboo",
+        "split": ""
+      }
+    }
+  ]
+}
